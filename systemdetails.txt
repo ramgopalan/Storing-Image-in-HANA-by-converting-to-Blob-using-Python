@@ -1,0 +1,6 @@
+host=<xyz.com>
+port=<3xx15>
+username=<>
+password=<>
+schemaname=<SchemaName where your target table is present>
+tablename=<Target Table Name>
